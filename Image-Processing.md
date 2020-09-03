@@ -24,5 +24,5 @@ The process of _extracting information_ from the digital image using computation
 
 
 
-1) <a id="#1">[What is a Signal?](https://doi.org/10.1109%2FMSP.2018.2832195 "What is a Signal?")</a>
-2) <a id="#2">we will discuss pixel, color, the intensity in later articles</a>
+1) <a href="#1">[What is a Signal?](https://doi.org/10.1109%2FMSP.2018.2832195 "What is a Signal?")</a>
+2) <a href="#2">we will discuss pixel, color, the intensity in later articles</a>
