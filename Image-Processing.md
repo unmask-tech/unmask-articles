@@ -14,7 +14,7 @@ A digital image is an image composed of _picture elements_, also known as __*pix
 
 Digital images get divided into two types "Vector" and "Raster". _The terms *Digital Image* generally represents raster images._ Raster image (digital image/image) contains a finite set of pixels. The digital image has a fixed number of rows and columns of pixels.
 
-__The Pixel__ [[2]](#2) is the _smallest addressable_ element in the digital image. Pixels hold a _brightness_ of a given color at any specific point. In color imaging system color is represented by three or four component intensities such as _red, green, blue_ (RGB) or _cyan, magenta, yellow, and black_ (CMYK). To store these pixels in files, we use specific formate compressed or raw (as it is). These file formats are known as image file formats. Some well-known file formats are JPEG, PNG, TIFF, etc.
+__The Pixel__ is the _smallest addressable_ element in the digital image. Pixels hold a _brightness_ of a given color at any specific point. In color imaging system color is represented by three or four component intensities such as _red, green, blue_ (RGB) or _cyan, magenta, yellow, and black_ (CMYK). To store these pixels in files, we use specific formate compressed or raw (as it is). These file formats are known as image file formats. Some well-known file formats are JPEG, PNG, TIFF, etc. [[2]](#2)
 
 As mentioned before, the digital image contains a fixed number of rows and columns of pixels. It means the digital image is a two or three-dimensional _array or matrix_ of pixels or intensity values. 
 
@@ -25,4 +25,4 @@ The process of _extracting information_ from the digital image using computation
 
 
 1) <a href="#1">[What is a Signal?](https://doi.org/10.1109%2FMSP.2018.2832195 "What is a Signal?")</a>
-2) <a href="#2">we will discuss pixel, color, the intensity in later articles</a>
+2) <a href="#2">we will discuss pixel, color, the intensity and file formats in later articles</a>
