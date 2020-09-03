@@ -4,7 +4,7 @@ Before we dive into what is image processing lets first understand the fundament
 
 So __What is The Image?__
 The image is a visual representation of a subject in two or three dimensions, usually a physical object, which provides a depiction of it.
-The image can be two-dimensional such as a photograph or three-dimensional such as a hologram, objects in the VR system. The Definition of image changes based on context for instance in [signal processing an image is an example of a two-dimensional signal, with the horizontal and vertical coordinates of the image representing the two dimensions.] (#1)
+The image can be two-dimensional such as a photograph or three-dimensional such as a hologram, objects in the VR system. The Definition of image changes based on context for instance in [signal processing an image is an example of a two-dimensional signal, with the horizontal and vertical coordinates of the image representing the two dimensions.](#1)
 
 In the field of Image Processing, we generally deal with __Digital Images__.
 Digital Image is an image composed of _picture elements_, also known as __*pixels*__, each with a numerical representation of its _intensity_ or _gray level_. We acquire digital images using cameras (also can use scanned photo acquisition), which can couple to optical devices such as telescopes, microscopes, etc. to capture.  Or we can use software such as Gimp, Paint, Adobe Photoshop, to produce digital images.
