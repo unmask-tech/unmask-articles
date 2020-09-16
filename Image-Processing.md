@@ -9,8 +9,9 @@ The image can be two-dimensional such as a photograph or three-dimensional such 
 In the field of Image Processing, we generally deal with __Digital Images__.  We acquire digital images using cameras (in some cases using scanned photo acquisition method), which can couple to optical devices such as telescopes, microscopes, etc. to capture the image. The camera is consists of a fixed number of rows and columns of tiny __light sensors (cavities)__ or __photosites__. These sensors capture the light and store it as an electrical signal in an array of picture elements, also known as pixels. Size of this array is equivalent to the number of light-sensors in the camera. Which means a digital image has a fixed number of rows and columns of _pixels_. Each pixel represents the intensity or a gray level of the light.
 
 Let's look at a sample image.
-![coffee cup](./images/image-processing/coffee.jpg)
+
 This is a image of a coffee cup.
+![coffee cup](./images/image-processing/coffee.jpg)
 
 If we look closer to the bottom left corner of this image, you will see squares of individual colours.  These are the pixels captured by the light sensors in our camera.
 ![coffee cup corner zoom](./images/image-processing/coffee_zoom.jpg)
